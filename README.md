@@ -6,7 +6,7 @@
 - 🚀 I'm specializing on web and mobile app development
 - ☕️ Non-stop learning Python, JS, C, C#, Java, Kotlin
 - 😜 Non Binary 
-- Spanish-English-French
+- 🗣Spanish-English-French
 
 
 [Check out my Linkedin profile](https://www.linkedin.com/in/ruben-padilla-814634204)

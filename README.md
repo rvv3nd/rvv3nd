@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I’m currently at computer science school
 - 🚀 I'm specializing on web and mobile app development
-- ☕️ Non-stop learning Python, JS, C, C#, Java, Kotlin
+- ☕️ Non-stop learning Python, JS, C, C#, Java
 - 😜 Non Binary 
 - 🗣Spanish-English-French
 
